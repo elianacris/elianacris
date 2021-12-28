@@ -1,6 +1,6 @@
-##Olá! eu sou a Eliana, desenvolvedora front-end! 
+## Olá! eu sou a Eliana, desenvolvedora front-end! 
 
-<div align="center">
+<div>
   <a href="https://github.com/elianacris">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=elianacris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianacris&layout=compact&langs_count=7&theme=dracula"/>
