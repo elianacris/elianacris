@@ -1,4 +1,4 @@
-## Olá! eu sou a Eliana, desenvolvedora front-end! 
+## Olá! eu sou a Eliana, desenvolvedora full stack! 
 
 <div>
   <a href="https://github.com/elianacris">
